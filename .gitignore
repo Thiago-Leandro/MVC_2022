@@ -396,3 +396,83 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Arquivos de compilação do Visual Studio
+*.obj
+*.exe
+*.dll
+*.pdb
+*.log
+*.zip
+*.rar
+*.7z
+*.bak
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.lib
+*.sbr
+*.scc
+*.msi
+*.user
+*.csproj.user
+*.sw?
+*.psscc
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.sbr
+*.scc
+*.lib
+*.gpState
+
+# Pasta bin e obj
+bin/
+obj/
+
+# Dependências de pacotes NuGet
+packages/
+
+# Arquivos de configuração
+*.config
+
+# Arquivos de compilação
+[Bb]in/
+[Oo]bj/
+
+# Arquivos de saída da ferramenta de teste
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Visual Studio
+*.[Ss]uo
+*.user
+*.suo
+*.cache
+*.docstates
+
+# Arquivos de projeto
+*.csproj
+*.user
+*.suo
+*.sln
+*.vscode/
+
+# Folders
+_PublishTemp/
+_PublishPromo/
+*.dbmdl
+
